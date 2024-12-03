@@ -6,4 +6,4 @@ if __name__ == "__main__":
     # print(f"Day 1:\n  {compare_lists()}")
     # print(f"Day 2:\n  {safe_reports()}")
     # print(f"Day 2:\n  {safe_reports(True)}")
-    print(f"Day 3:\n  {mull_it()}")
+    print(f"Day 3:\n  {mull_it(False)}")
